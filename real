@@ -116,7 +116,7 @@ function autoraid()
 								queue_on_teleport([[
 									local clonef = clonefunction
 									local loading= clonef(loadstring)
-									loading(game:HttpGet("https://raw.githubusercontent.com/mac2115/Asteriadebug/main/Asteriaunreleased"))()
+									loading(game:HttpGet("https://raw.githubusercontent.com/SuperSonicMna/yuh/main/real"))()
 									]])
 								queue_on_teleport([[
 										repeat task.wait() until getgenv().loaded == true
